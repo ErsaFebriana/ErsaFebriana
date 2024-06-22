@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center"> ✨ Ersa Febriana ✨ </h1> 
+<h1 align="center">  Hey Everyone! I am Ersa👋 </h1> 
 
 
 <div id="badges" align="center">
@@ -33,6 +33,5 @@ Im a aspiring Data Scientist from Indonesia.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErsaFebriana&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErsaFebriana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
